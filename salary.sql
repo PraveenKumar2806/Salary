@@ -1,1 +1,1 @@
-Select Salary from employees;
+Select Salary from employees Where employee_id  = 100;
